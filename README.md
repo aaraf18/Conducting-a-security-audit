@@ -1,5 +1,12 @@
-# Controls and Compliance Checklist
+# Security Audit Case Study
 
+A coursework controls assessment for Botium Toys, a fictional organisation. Includes a controls checklist, supporting scenario material and prioritised recommendations.
+
+**Skills:** Security controls, risk assessment, audit documentation
+
+## Project context
+
+This repository presents an educational exercise. References to organisations and incidents describe the exercise scenario, not professional employment or a client engagement.
 
 ## Scenario
 
@@ -99,4 +106,6 @@ Based on the assessment, **Botium Toys has a high-risk score of 8**, indicating 
 ### Medium-Priority Recommendations
 - **Strengthen Password Security**: Update the password policy to enforce strong complexity requirements (length, character types) and implement a password management system to enforce these policies and reduce support tickets.  
 - **Install an Intrusion Detection System (IDS)**: An IDS provides early warnings of malicious activity, enabling faster incident response.  
-- **Conduct an Asset Management and Classification Project**: Inventory and classify all assets to understand what needs protection and apply the appropriate controls.  
+- **Conduct an Asset Management and Classification Project**: Inventory and classify all assets to understand what needs protection and apply the appropriate controls.
+
+[Back to my portfolio](https://github.com/aaraf18)
